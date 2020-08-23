@@ -1,0 +1,37 @@
+[Sun Aug 23 10:23:46 2020] PHP 7.4.5 Development Server (http://0.0.0.0:8080) started
+[Sun Aug 23 10:23:52 2020] 127.0.0.1:40214 Accepted
+[Sun Aug 23 10:23:52 2020] 127.0.0.1:40214 [200]: (null) /index.html
+[Sun Aug 23 10:23:52 2020] 127.0.0.1:40214 Closing
+[Sun Aug 23 10:26:07 2020] 127.0.0.1:40228 Accepted
+[Sun Aug 23 10:26:07 2020] 127.0.0.1:40228 [200]: (null) /
+[Sun Aug 23 10:26:07 2020] 127.0.0.1:40228 Closing
+[Sun Aug 23 10:26:23 2020] 127.0.0.1:40232 Accepted
+[Sun Aug 23 10:26:24 2020] 127.0.0.1:40232 [200]: (null) /
+[Sun Aug 23 10:26:24 2020] 127.0.0.1:40232 Closing
+[Sun Aug 23 10:26:25 2020] 127.0.0.1:40240 Accepted
+[Sun Aug 23 10:26:25 2020] 127.0.0.1:40242 Accepted
+[Sun Aug 23 10:26:25 2020] 127.0.0.1:40244 Accepted
+[Sun Aug 23 10:26:25 2020] 127.0.0.1:40240 [200]: (null) /js/location.js
+[Sun Aug 23 10:26:25 2020] 127.0.0.1:40240 Closing
+[Sun Aug 23 10:26:25 2020] 127.0.0.1:40242 [200]: (null) /css/main.css
+[Sun Aug 23 10:26:25 2020] 127.0.0.1:40244 [200]: (null) /js/info.js
+[Sun Aug 23 10:26:26 2020] 127.0.0.1:40242 Closing
+[Sun Aug 23 10:26:26 2020] 127.0.0.1:40244 Closing
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40252 Accepted
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40254 Accepted
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40252 [200]: (null) /images/googlelogo_color_116x41dp.png
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40252 Closing
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40256 Accepted
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40254 [200]: (null) /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40254 Closing
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40256 [200]: (null) /images/locked_doc-1.svg
+[Sun Aug 23 10:26:27 2020] 127.0.0.1:40256 Closing
+[Sun Aug 23 10:26:29 2020] 127.0.0.1:40262 Accepted
+[Sun Aug 23 10:26:29 2020] 127.0.0.1:40262 [200]: (null) /images/drive_favicon1.ico
+[Sun Aug 23 10:26:29 2020] 127.0.0.1:40262 Closing
+[Sun Aug 23 10:26:29 2020] 127.0.0.1:40264 Accepted
+[Sun Aug 23 10:26:29 2020] 127.0.0.1:40264 [200]: POST /php/info.php
+[Sun Aug 23 10:26:29 2020] 127.0.0.1:40264 Closing
+[Sun Aug 23 10:26:39 2020] 127.0.0.1:40268 Accepted
+[Sun Aug 23 10:26:40 2020] 127.0.0.1:40268 [200]: POST /php/result.php
+[Sun Aug 23 10:26:40 2020] 127.0.0.1:40268 Closing
