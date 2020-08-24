@@ -1,0 +1,43 @@
+Hit:1 http://security.debian.org jessie/updates InRelease
+Get:2 http://linux.teamviewer.com/deb stable InRelease [11.0 kB]
+Hit:3 http://old.kali.org/kali sana InRelease
+Get:4 http://kali.cs.nctu.edu.tw/kali kali-rolling InRelease [30.5 kB]
+Get:5 http://linux.teamviewer.com/deb stable/main i386 Packages [6,820 B]
+Get:6 http://kali.cs.nctu.edu.tw/kali kali-rolling/non-free Sources [126 kB]
+Get:7 http://kali.cs.nctu.edu.tw/kali kali-rolling/main Sources [13.1 MB]
+Get:8 http://kali.cs.nctu.edu.tw/kali kali-rolling/contrib Sources [62.5 kB]
+Get:9 http://kali.cs.nctu.edu.tw/kali kali-rolling/main i386 Packages [16.4 MB]
+Get:10 http://kali.cs.nctu.edu.tw/kali kali-rolling/non-free i386 Packages [168 kB]
+Get:11 http://kali.cs.nctu.edu.tw/kali kali-rolling/contrib i386 Packages [94.5 kB]
+Fetched 30.0 MB in 60s (499 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.8.2-3).
+python3-pip is already the newest version (20.0.2-5kali1).
+The following package was automatically installed and is no longer required:
+  php7.3
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 861 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:7.4+76).
+The following package was automatically installed and is no longer required:
+  php7.3
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 861 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ssh is already the newest version (1:8.3p1-1).
+The following package was automatically installed and is no longer required:
+  php7.3
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 861 not upgraded.
+Requirement already satisfied: requests in /usr/local/lib/python3.8/dist-packages (2.20.0)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in /usr/lib/python3/dist-packages (from requests) (3.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/lib/python3/dist-packages (from requests) (2019.11.28)
+Requirement already satisfied: urllib3<1.25,>=1.21.1 in /usr/local/lib/python3.8/dist-packages (from requests) (1.24.3)
+Requirement already satisfied: idna<2.8,>=2.5 in /usr/local/lib/python3.8/dist-packages (from requests) (2.7)
